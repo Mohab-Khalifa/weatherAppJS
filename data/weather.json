@@ -1,0 +1,46 @@
+{
+  "coord": {
+    "lon": 28.9833,
+    "lat": 41.0351
+  },
+  "weather": [
+    {
+      "id": 801,
+      "main": "Clouds",
+      "description": "few clouds",
+      "icon": "02d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 10.36,
+    "feels_like": 8.99,
+    "temp_min": 9.68,
+    "temp_max": 10.51,
+    "pressure": 1017,
+    "humidity": 59,
+    "sea_level": 1017,
+    "grnd_level": 1009
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 5.14,
+    "deg": 10
+  },
+  "clouds": {
+    "all": 20
+  },
+  "dt": 1773675566,
+  "sys": {
+    "type": 2,
+    "id": 2108371,
+    "country": "TR",
+    "sunrise": 1773634482,
+    "sunset": 1773677457
+  },
+  "timezone": 10800,
+  "id": 745042,
+  "name": "Istanbul",
+  "cod": 200,
+  "_last_updated_utc": "2026-03-16T15:41:08.189Z"
+}
