@@ -1,46 +1,45 @@
 {
   "coord": {
-    "lon": 28.9833,
-    "lat": 41.0351
+    "lon": -0.1257,
+    "lat": 51.5085
   },
   "weather": [
     {
-      "id": 801,
+      "id": 803,
       "main": "Clouds",
-      "description": "few clouds",
-      "icon": "02d"
+      "description": "broken clouds",
+      "icon": "04d"
     }
   ],
   "base": "stations",
   "main": {
-    "temp": 10.36,
-    "feels_like": 8.99,
-    "temp_min": 9.68,
-    "temp_max": 10.51,
-    "pressure": 1017,
-    "humidity": 59,
-    "sea_level": 1017,
-    "grnd_level": 1009
+    "temp": 12.91,
+    "feels_like": 12.16,
+    "temp_min": 12.91,
+    "temp_max": 12.91,
+    "pressure": 1015,
+    "humidity": 73,
+    "sea_level": 1015,
+    "grnd_level": 1011
   },
   "visibility": 10000,
   "wind": {
-    "speed": 5.14,
-    "deg": 10
+    "speed": 5.7,
+    "deg": 198,
+    "gust": 8.8
   },
   "clouds": {
-    "all": 20
+    "all": 81
   },
-  "dt": 1773675566,
+  "dt": 1773749701,
   "sys": {
-    "type": 2,
-    "id": 2108371,
-    "country": "TR",
-    "sunrise": 1773634482,
-    "sunset": 1773677457
+    "country": "GB",
+    "sunrise": 1773727832,
+    "sunset": 1773770841
   },
-  "timezone": 10800,
-  "id": 745042,
-  "name": "Istanbul",
+  "timezone": 0,
+  "id": 2643743,
+  "name": "London",
   "cod": 200,
-  "_last_updated_utc": "2026-03-16T15:41:08.189Z"
+  "_last_updated_utc": "2026-03-17T12:22:47.023Z"
 }
