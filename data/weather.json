@@ -30,7 +30,7 @@
   "clouds": {
     "all": 0
   },
-  "dt": 1778267465,
+  "dt": 1778273956,
   "sys": {
     "type": 1,
     "id": 6956,
@@ -42,5 +42,5 @@
   "id": 323776,
   "name": "Antalya Province",
   "cod": 200,
-  "_last_updated_utc": "2026-05-08T19:17:02.226Z"
+  "_last_updated_utc": "2026-05-08T20:59:16.746Z"
 }
