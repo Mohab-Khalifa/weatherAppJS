@@ -5,10 +5,10 @@
   },
   "weather": [
     {
-      "id": 802,
+      "id": 801,
       "main": "Clouds",
-      "description": "scattered clouds",
-      "icon": "03n"
+      "description": "few clouds",
+      "icon": "02n"
     }
   ],
   "base": "stations",
@@ -25,22 +25,22 @@
   "visibility": 10000,
   "wind": {
     "speed": 3.09,
-    "deg": 330
+    "deg": 320
   },
   "clouds": {
-    "all": 40
+    "all": 20
   },
-  "dt": 1779656089,
+  "dt": 1779663438,
   "sys": {
     "type": 1,
     "id": 6956,
     "country": "TR",
-    "sunrise": 1779590623,
-    "sunset": 1779642270
+    "sunrise": 1779676989,
+    "sunset": 1779728715
   },
   "timezone": 10800,
   "id": 323776,
   "name": "Antalya Province",
   "cod": 200,
-  "_last_updated_utc": "2026-05-24T20:54:49.345Z"
+  "_last_updated_utc": "2026-05-24T22:57:18.950Z"
 }
