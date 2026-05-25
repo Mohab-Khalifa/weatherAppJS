@@ -8,29 +8,29 @@
       "id": 801,
       "main": "Clouds",
       "description": "few clouds",
-      "icon": "02n"
+      "icon": "02d"
     }
   ],
   "base": "stations",
   "main": {
-    "temp": 18.33,
-    "feels_like": 18.36,
-    "temp_min": 18.11,
-    "temp_max": 18.33,
+    "temp": 17.33,
+    "feels_like": 17.26,
+    "temp_min": 17,
+    "temp_max": 17.33,
     "pressure": 1017,
     "humidity": 82,
     "sea_level": 1017,
-    "grnd_level": 1007
+    "grnd_level": 1008
   },
   "visibility": 10000,
   "wind": {
-    "speed": 3.09,
-    "deg": 320
+    "speed": 2.57,
+    "deg": 340
   },
   "clouds": {
     "all": 20
   },
-  "dt": 1779663438,
+  "dt": 1779680463,
   "sys": {
     "type": 1,
     "id": 6956,
@@ -42,5 +42,5 @@
   "id": 323776,
   "name": "Antalya Province",
   "cod": 200,
-  "_last_updated_utc": "2026-05-24T22:57:18.950Z"
+  "_last_updated_utc": "2026-05-25T03:43:10.309Z"
 }
