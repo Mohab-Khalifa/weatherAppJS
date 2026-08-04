@@ -5,33 +5,33 @@
   },
   "weather": [
     {
-      "id": 801,
-      "main": "Clouds",
-      "description": "few clouds",
-      "icon": "02d"
+      "id": 800,
+      "main": "Clear",
+      "description": "clear sky",
+      "icon": "01n"
     }
   ],
   "base": "stations",
   "main": {
-    "temp": 30.89,
-    "feels_like": 37.3,
-    "temp_min": 30.89,
-    "temp_max": 30.89,
-    "pressure": 1008,
-    "humidity": 70,
-    "sea_level": 1008,
+    "temp": 29.22,
+    "feels_like": 34.24,
+    "temp_min": 29.22,
+    "temp_max": 29.22,
+    "pressure": 1009,
+    "humidity": 75,
+    "sea_level": 1009,
     "grnd_level": 999
   },
   "visibility": 10000,
   "wind": {
-    "speed": 3.85,
-    "deg": 144,
-    "gust": 3.52
+    "speed": 0.49,
+    "deg": 139,
+    "gust": 0.45
   },
   "clouds": {
-    "all": 20
+    "all": 10
   },
-  "dt": 1785852472,
+  "dt": 1785865630,
   "sys": {
     "type": 2,
     "id": 2000952,
@@ -43,5 +43,5 @@
   "id": 323776,
   "name": "Antalya Province",
   "cod": 200,
-  "_last_updated_utc": "2026-08-04T14:07:52.469Z"
+  "_last_updated_utc": "2026-08-04T17:47:10.212Z"
 }
