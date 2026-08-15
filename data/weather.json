@@ -8,7 +8,7 @@
       "id": 800,
       "main": "Clear",
       "description": "clear sky",
-      "icon": "01n"
+      "icon": "01d"
     }
   ],
   "base": "stations",
@@ -25,12 +25,12 @@
   "visibility": 10000,
   "wind": {
     "speed": 4.12,
-    "deg": 330
+    "deg": 320
   },
   "clouds": {
-    "all": 0
+    "all": 1
   },
-  "dt": 1786762218,
+  "dt": 1786768115,
   "sys": {
     "type": 1,
     "id": 6956,
@@ -42,5 +42,5 @@
   "id": 323776,
   "name": "Antalya Province",
   "cod": 200,
-  "_last_updated_utc": "2026-08-15T02:50:18.948Z"
+  "_last_updated_utc": "2026-08-15T04:28:35.074Z"
 }
