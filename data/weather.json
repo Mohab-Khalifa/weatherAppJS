@@ -24,13 +24,13 @@
   },
   "visibility": 10000,
   "wind": {
-    "speed": 5.66,
-    "deg": 150
+    "speed": 5.14,
+    "deg": 130
   },
   "clouds": {
-    "all": 0
+    "all": 8
   },
-  "dt": 1787567718,
+  "dt": 1787575584,
   "sys": {
     "type": 1,
     "id": 6956,
@@ -42,5 +42,5 @@
   "id": 323776,
   "name": "Antalya Province",
   "cod": 200,
-  "_last_updated_utc": "2026-08-24T10:35:18.037Z"
+  "_last_updated_utc": "2026-08-24T12:46:24.589Z"
 }
